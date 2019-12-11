@@ -1,0 +1,24 @@
+#Users#
+1 yusuf
+2 omer
+3 aliss
+4 aliss2
+#Connections#
+1 2 123
+1 3 5555
+1 4 225
+
+3 4 22
+3 2 444
+
+#Rem 1 2
+#Rem 2 4
+#Print environment
+Print user 1
+#Print commons
+
+#Print everything
+#Com 1 2
+#Com 2 4
+#Com 1 3
+
